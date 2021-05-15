@@ -1,6 +1,8 @@
 # Python-Yclients-API
 Python Yclients API wrapper
 
+This is an updated version of this project: https://github.com/Andrii-D/yclients-api
+
 The code added the ability to register a user, as well as work with customer data and their visits.
 
 An example of using the client library is implemented in the main.py file.
