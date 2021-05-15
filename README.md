@@ -1,4 +1,4 @@
-# Python-Yclients-API
+# Python Yclients API
 Python Yclients API wrapper
 
 This is an updated version of this project: https://github.com/Andrii-D/yclients-api
